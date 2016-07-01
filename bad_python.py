@@ -1,4 +1,4 @@
-def myfunc(a, b):
+def myfunc(a, b=0):
     print(a, b)
 
 
