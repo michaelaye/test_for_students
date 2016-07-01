@@ -1,5 +1,5 @@
-def myfunc(a, b):
-    print(a, b)
+def myfunc(a):
+    print(a)
 
 
 # using myfunc:
